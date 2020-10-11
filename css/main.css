@@ -62,7 +62,7 @@ body {
   display: inline;
 }
 
-.home .content #chentian {
+.home .content #nathan {
   color: #F9F7F9;
   transition: color 0.2s ease-out;
 }
@@ -152,13 +152,13 @@ body {
   .home .content {
     background-color: #F9F7F9;
   }
-  .home .content #chentian {
+  .home .content #nathan {
     color: #ADD3F4;
   }
   .home .content:hover {
     background-color: #ADD3F4;
   }
-  .home .content:hover #chentian {
+  .home .content:hover #nathan {
     color: #F9F7F9;
   }
   .projects .content .project .links p:hover {
