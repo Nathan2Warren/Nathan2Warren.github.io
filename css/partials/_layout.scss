@@ -30,7 +30,7 @@ body {
       display: inline;
     }
 
-    #chentian {
+    #nathan {
       color: $white;
       @include ease_out(color);
     }
@@ -125,14 +125,14 @@ body {
   .home .content {
     background-color: $white;
 
-    #chentian {
+    #nathan {
       color: $blue;
     }
   }
   .home .content:hover {
     background-color: $blue;
 
-    #chentian {
+    #nathan {
       color: $white;
     }
   }
