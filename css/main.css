@@ -108,7 +108,7 @@ body {
   border: 3px solid rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   flex-grow: 1;
-  flex-basis: unset;
+  flex-basis: 200px;
   height: 250px;
   margin: 1%;
   padding: 0 1rem;
